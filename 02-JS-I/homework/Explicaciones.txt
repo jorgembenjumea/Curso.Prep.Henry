@@ -1,0 +1,21 @@
+Variables: es un elemento donde se puede almacenar valores
+de distinto tipos (numericos, string, booleanos), esta puede
+cambiar o Variar segun el flujo del programa.
+
+Strings: es un tipo de variable, la cual consta de 
+una cadena de caracteres o cadena de palabras, siempre
+estan entre comillas. 
+
+Funciones (argumentos, return): una funcion es procedimiento
+o proceso que se realiza al interior del programa donde
+dado un valor este tiene un resultado, es mas o menos
+como un procesos, tiene la entrada, el proceso que la transforma, 
+y el resultado final que viena hacer el return.
+
+
+Declaraciones if: es un condicional que sirve para controlar
+el flujo del programa arrojando dos posibles resultados
+true o false.
+
+Valores booleanos (true, false): es un tipo de variable.
+donde indica estados de las operaciones.
